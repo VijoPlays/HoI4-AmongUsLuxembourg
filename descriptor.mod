@@ -1,4 +1,4 @@
-version="1.0"
+version="1.14.1"
 tags={
 	"Map"
 	"Gameplay"
@@ -6,5 +6,5 @@ tags={
 	"Fixes"
 }
 name="Among Us Luxembourg - Fixed AAT"
-supported_version="1.13.7"
+supported_version="1.14.1"
 remote_file_id="3171145524"
